@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noobsoul99
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning html,css,js
+- 🌱 I’m currently learning html,css and js
 
 
 <!---
